@@ -1,4 +1,5 @@
-# TodoList[https://festive-panini-72892a.netlify.app/]
+# TodoList
+[https://festive-panini-72892a.netlify.app/]
 
 A simple todo list in angular
 
